@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:  
       [Yay! Portfolio👨‍💻](https://jeelpatel.ml)
+      
       [Twit - Twit🐤](https://twitter.com/70r65eL)
+      
       [Gram📸](https://instagram.com/thisisjeelpatel)
 
 
