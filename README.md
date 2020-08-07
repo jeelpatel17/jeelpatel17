@@ -1,4 +1,5 @@
-# Hi there 👋 This is [logo]: https://learncodeonline.in/gittwo.png "Coder!" Jeel Patel!
+# Hi there 👋 This is Reference-style: 
+![alt text][logo] [logo]: https://learncodeonline.in/gittwo.png "Coder!" Jeel Patel!
 > Choose a Job you love and you'll never have to work a single day in your life!
 
 - 🔭 I’m currently working on a website having Covid-19 Information like, it's History, Precautions and a simple-minimal counter showing total days since it spreaded.
