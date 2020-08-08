@@ -1,5 +1,5 @@
 # Hi there 👋 This is Jeel Patel! 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![forthebadge](https://forthebadge.com/images/badges/built-by-crips.svg)](https://forthebadge.com)
  > *Choose a Job you love and you'll never have to work a single day in your life!*
  - 🔭 I’m currently working on a website having Covid-19 Information like, it's History, Precautions and a simple-minimal counter showing total days since it spreaded.
  - 🤓 I'm currently learning Javascript.
