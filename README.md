@@ -6,5 +6,6 @@
  - 😍 I Love to read articles on [Medium](https://medium.com/@jeelpatel17) & Write articles on [My Personal Blog](http://paperpixel.synergize.co)
 
 ### [Yay! A Portfolio 👀](https://jeelpatel.ml) — [Twit-Twit 🐤](https://twitter.com/70r65eL) — [Gram 📸](https://instagram.com/thisisjeelpatel)
+![GitHub followers](https://img.shields.io/github/followers/jeelpatel17?label=Follow%20Me%20%21&style=social)
 
 [![Jeel's github stats](https://github-readme-stats.vercel.app/api?username=jeelpatel17)](https://github.com/jeelpatel17/github-readme-stats)
