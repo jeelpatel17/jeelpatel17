@@ -27,7 +27,6 @@
 <a href="https://stackoverflow.com/users/jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jeelpatel17" height="30" width="40" /></a>
 <a href="https://instagram.com/thisisjeelpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thisisjeelpatel" height="30" width="40" /></a>
 <a href="https://medium.com/@jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jeelpatel17" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jeel patel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jeel patel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
