@@ -13,6 +13,8 @@
 	box-sizing: border-box;
 	scroll-behavior: smooth;
 	cursor: url(https://cur.cursors-4u.net/cursors/cur-9/cur850.ani), url(http://cur.cursors-4u.net/cursors/cur-9/cur850.png), auto !important;
+	
+
 }
 
 a{
@@ -21,6 +23,9 @@ a{
 
 .img-parent{
 	border: 2px dashed #fff;
+}
+body{
+	overflow-x: hidden;
 }
 
 html {
