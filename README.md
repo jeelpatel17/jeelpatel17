@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [http://paperpixel.ml](http://paperpixel.ml)
 
-- 💬 Ask me about **HTML/CSS**
+- 💬 Ask me about **CSS Animations😍**
 
 - 📫 How to reach me **jeelsardar77@gmail.com**
 
