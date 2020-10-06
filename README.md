@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeelpatel17" alt="jeelpatel17" /> </p>
 
-- 🔭 I’m currently working on [PaperPixel](https://github.com/jeelpate17/paperpixel)
+- 🔭 I’m currently working on [PaperPixel](https://github.com/jeelpatel17/paperpixel)
 
 - 🌱 I’m currently learning **Advanced concepts in Javascript**
 
 - 👯 I’m looking to collaborate on **Pixel Store**
 
-- 👨‍💻 All of my projects are available at [https://jeelpatel.ml](https://jeelpatel.ml)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jeelpatel.ml)
 
-- 📝 I regulary write articles on [http://paperpixel.ml](http://paperpixel.ml)
+- 📝 I regulary write articles on [PaperPixel](http://paperpixel.ml)
 
 - 💬 Ask me about **CSS Animations😍**
 
-- 📫 How to reach me **jeelsardar77@gmail.com**
+- 📫 How to reach me **[My Email](mailto:jeelsardar77@gmail.com)**
 
 - ⚡ Fun fact **I assume that I'm the person who would change the software industry.**
 
