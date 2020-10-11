@@ -25,7 +25,7 @@
 <a href="https://twitter.com/70r65el" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="70r65el" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeelpatel17" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jeelpatel17" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisjeelpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thisisjeelpatel" height="30" width="40" /></a>
+<a href="https://instagram.com/jeelpatel.js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thisisjeelpatel" height="30" width="40" /></a>
 <a href="https://medium.com/@jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jeelpatel17" height="30" width="40" /></a>
 </p>
 
