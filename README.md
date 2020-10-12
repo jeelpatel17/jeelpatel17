@@ -1,7 +1,10 @@
 <h1 align="center">Namaste🙏, I'm Jeel Patel.</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeelpatel17" alt="jeelpatel17" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=jeelpatel17" alt="jeelpatel17" /> </p>
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/jeelpatel17)](https://github.com/jeelpatel17)
 
 - 🔭 I’m currently working on [PaperPixel](https://github.com/jeelpatel17/paperpixel)
 
