@@ -32,10 +32,6 @@
 <a href="https://medium.com/@jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jeelpatel17" height="30" width="40" /></a><a href="https://dev.to/jeelpatel17"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jeel Patel's DEV Profile" height="30" width="30"></a>
 </p>
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
