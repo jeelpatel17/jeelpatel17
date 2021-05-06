@@ -13,7 +13,7 @@
 
 
 <p>
-  <h3>Languages and Tools</h3>
+  <h2>Languages and Tools</h2>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -25,7 +25,7 @@
 
 
 <p>
-  <h3>Let's Connect!</h3>
+  <h2>Let's Connect!</h2>
   <a href="https://instagram.com/ijeelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0t.svg" alt="ijeelpatel" height="30" width="40" /></a>
   <a href="https://twitter.com/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/X1D.svg" alt="@jeelpatel101 on twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/jeelpatel17" target="blank"><img align="center" src="https://svgshare.com/i/Wz0.svg" alt="jeelpatel17" height="30" width="40" /></a>
