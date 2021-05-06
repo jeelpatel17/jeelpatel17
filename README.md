@@ -1,10 +1,8 @@
-<h1 align="center">Namaste🙏, I'm Jeel Patel.</h1>
-<h3 align="center">A passionate Frontend Developer from India!</h3>
+<img align="center" src="https://svgshare.com/i/X0X.svg" alt="jeelpatel" height="100" width="1000" />
+<h3>A Passionate Frontend Developer from India!</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=jeelpatel17" alt="jeelpatel17" /> </p>
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/jeelpatel17)](https://github.com/jeelpatel17)
 
 - 🌱 I’m currently learning **React JS**
 
@@ -12,29 +10,29 @@
 
 - 💬 Ask me about **Graphics & React JS**
 
-- 📫 How to reach me **[My Email](mailto:jeelsardar77@gmail.com)**
+- 📫 How to reach me **[My Email](mailto:jeelpateldev@gmail.com)**
 
 <p align="left">
 <h3 align="left">Say Hi!👋🏻</h3>
-<a href="https://instagram.com/ijeelpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ijeelpatel" height="30" width="40" /></a>
-<a href="https://twitter.com/jeelpatel101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@jeelpatel101 on twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeelpatel17" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jeelpatel17" height="30" width="40" /></a>
-<a href="https://codepen.io/jeelpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jeelpatel" height="30" width="40" /></a>
-<a href="https://medium.com/@jeelpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jeelpatel17" height="30" width="40" /></a><a href="https://dev.to/jeelpatel17"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jeel Patel's DEV Profile" height="30" width="30"></a>
+<a href="https://instagram.com/ijeelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0t.svg" alt="ijeelpatel" height="30" width="40" /></a>
+<a href="https://twitter.com/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/X1D.svg" alt="@jeelpatel101 on twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeelpatel17" target="blank"><img align="center" src="https://svgshare.com/i/Wz0.svg" alt="jeelpatel17" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15842907/jeel-patel" target="blank"><img align="center" src="https://svgshare.com/i/X1Q.svg" height="30" width="40" /></a>
+<a href="https://codepen.io/jeelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0u.svg" alt="jeelpatel" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- Icon library -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><i class="devicon-javascript-plain colored"></i></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+  
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelpatel17&layout=compact" alt="jeelpatel17" /></p>
 
