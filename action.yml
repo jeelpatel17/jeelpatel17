@@ -1,0 +1,2 @@
+- name: WakaTimeBox
+  uses: Hephaest/WakaTimeBox@v4.0.9
