@@ -14,7 +14,7 @@
 
 
   <p>
-    <h2>Languages and Tools</h2>
+    <h2>My Ammunition</h2>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@
 
 
   <p>
-    <h2>Let's Connect!</h2>
+    <h2>Would like to connect?</h2>
     <a href="https://instagram.com/ijeelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0t.svg" alt="ijeelpatel" height="40" width="40" /></a>
     <a href="https://twitter.com/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/X1D.svg" alt="@jeelpatel101 on twitter" height="40" width="40" /></a>
     <a href="https://linkedin.com/in/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/Wz0.svg" alt="jeelpatel17" height="40" width="40" /></a>
@@ -33,8 +33,5 @@
     <a href="https://codepen.io/jeelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0u.svg" alt="jeelpatel" height="40" width="40" /></a>
   </p>
 
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelpatel17&layout=compact" alt="jeelpatel17" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeelpatel17&show_icons=true" alt="jeelpatel17" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeelpatel17&theme=radical&show_icons=true" alt="jeelpatel17" /></p>
 </div>
