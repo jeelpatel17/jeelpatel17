@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T01:42:29.360Z" agent="5.0 (Windows)" etag="IPQoc-G0wMdKAiurXm8X" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-21T01:47:24.834Z" agent="5.0 (Windows)" etag="FZ4f8r2UlG0LKNvLGt55" version="18.0.8" type="github">
   <diagram id="SS_MKoYorXcX6fGoDfd3" name="Page-1">
-    <mxGraphModel dx="917" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="9170" dy="4780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="3200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dfkd_L_tZ3rU1azkT_8S-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="55" width="660" height="1490" as="geometry" />
+        <mxCell id="PpZUg7KXJRWjB9zwke7--94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="40" width="740" height="3070" as="geometry" />
         </mxCell>
-        <mxCell id="Dfkd_L_tZ3rU1azkT_8S-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Workshop - 1 Flowchart (Group Submission)&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Members&lt;/b&gt; : Jeel Satishkumar Patel,&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; Subash Paudel Chhetri,&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; Jinlin Pan&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Group&lt;/b&gt;: B5&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Section&lt;/b&gt;: NEE&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;container=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="480" height="160" as="geometry" />
+        <mxCell id="Dfkd_L_tZ3rU1azkT_8S-6" value="" style="group" parent="PpZUg7KXJRWjB9zwke7--94" vertex="1" connectable="0">
+          <mxGeometry x="80" y="15" width="660" height="1490" as="geometry" />
         </mxCell>
-        <mxCell id="PpZUg7KXJRWjB9zwke7--91" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="138" y="260" width="625" height="2850" as="geometry" />
+        <mxCell id="Dfkd_L_tZ3rU1azkT_8S-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Workshop - 1 Flowchart (Group Submission)&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Members&lt;/b&gt; : Jeel Satishkumar Patel,&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; Subash Paudel Chhetri,&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; Jinlin Pan&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Group&lt;/b&gt;: B5&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Section&lt;/b&gt;: NEE&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;container=1;" parent="PpZUg7KXJRWjB9zwke7--94" vertex="1">
+          <mxGeometry x="-50" y="15" width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PpZUg7KXJRWjB9zwke7--91" value="" style="group" vertex="1" connectable="0" parent="PpZUg7KXJRWjB9zwke7--94">
+          <mxGeometry x="98" y="220" width="625" height="2850" as="geometry" />
         </mxCell>
         <mxCell id="PpZUg7KXJRWjB9zwke7--2" value="Declare player 1 &amp;amp; 2, a simulated dice will decide who goes first" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PpZUg7KXJRWjB9zwke7--91">
           <mxGeometry x="45" y="95" width="140" height="60" as="geometry" />
