@@ -1,1 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T22:25:34.484Z" agent="5.0 (Windows)" version="20.0.4" etag="GuV59wAod-Jcei-NJobw" type="github"><diagram id="rP3lQHloeb82EkU2u6x7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-12T23:41:39.793Z" agent="5.0 (Windows)" etag="JT3uu6_ZOdNHYLyNdTn-" version="20.0.4" type="github">
+  <diagram id="rP3lQHloeb82EkU2u6x7" name="Page-1">
+    <mxGraphModel dx="712" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-1" target="mSJYKKnzMjpl-HyY6h-2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-2" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-18" target="mSJYKKnzMjpl-HyY6h-2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-18" value="Start recording video Start a timer of 10 minutes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-19" target="mSJYKKnzMjpl-HyY6h-2-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-19" target="mSJYKKnzMjpl-HyY6h-2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-19" value="is the timer done?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="390" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-21" value="&lt;div&gt;Broadcast the video surveillance&lt;/div&gt;&lt;div&gt;to the main server in the video segment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="340" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-26" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486" y="403" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-28" target="mSJYKKnzMjpl-HyY6h-2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="555" />
+              <mxPoint x="270" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-28" value="&lt;div&gt;is there any&lt;/div&gt;&lt;div&gt;animal movement detected?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="510" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-29" target="mSJYKKnzMjpl-HyY6h-2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-29" value="Capture a still image of the animal and send to the administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="640" width="191" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-32" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-33" target="mSJYKKnzMjpl-HyY6h-2-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="800" />
+              <mxPoint x="230" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-33" value="&lt;div&gt;is administrator trying to pan the&lt;/div&gt;&lt;div&gt;camera or start/stop recording?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="750" width="246" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-34" target="mSJYKKnzMjpl-HyY6h-2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-34" value="Execute the requests by administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="890" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-36" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="850" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.424;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513.8815476190478" y="1030.047619047619" as="sourcePoint" />
+            <mxPoint x="624.44" y="671.6799999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-37" value="&lt;div&gt;Does the camera have&lt;/div&gt;&lt;div&gt;enough battery ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="990" width="199" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-39" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="595" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-43" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="775" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-49" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1000" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="430" as="targetPoint" />
+            <mxPoint x="625" y="600" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="625" y="480" />
+              <mxPoint x="625" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-50" value="&lt;div&gt;Start the charging process&lt;/div&gt;&lt;div&gt;until 90 minutes, temporarily disable the camera panning&lt;br&gt;&lt;/div&gt;&amp;nbsp;and stop the email alerts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="600" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-55" target="mSJYKKnzMjpl-HyY6h-2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="459.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="200" />
+              <mxPoint x="750" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-55" value="is the battery charged completely?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="160" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-58" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSJYKKnzMjpl-HyY6h-2-59" target="mSJYKKnzMjpl-HyY6h-2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-59" value="Enable the camera panning and email alerts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSJYKKnzMjpl-HyY6h-2-63" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="175" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
