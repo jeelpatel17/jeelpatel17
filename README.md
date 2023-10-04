@@ -6,7 +6,7 @@
 
   - 🌱 I’m currently learning **React JS**
 
-  - 👨‍💻 All of my projects are available at [My Portfolio](http://jeelpatel.ml)
+  - 👨‍💻 All of my projects are available at [My Portfolio](http://jeelpatel17.github.io)
 
   - 💬 Ask me about **React & NeXT JS**
 
