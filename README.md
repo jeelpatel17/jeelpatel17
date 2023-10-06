@@ -1,6 +1,6 @@
 <div>
   <img align="center" src="https://svgshare.com/i/X0X.svg" alt="jeelpatel" height="100" width="1000" />
-  <h2 align="center">A Passionate Frontend Developer from India!</h2>
+  <h2 align="center">A Passionate Frontend Developer from Toronto, Canada!</h2>
 
   <h2>S'up?</h2>
 
@@ -26,7 +26,7 @@
 
   <p>
     <h2>Would like to connect?</h2>
-    <a href="https://instagram.com/ijeelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0t.svg" alt="ijeelpatel" height="40" width="40" /></a>
+    <a href="https://instagram.com/7eelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0t.svg" alt="7eelpatel" height="40" width="40" /></a>
     <a href="https://twitter.com/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/X1D.svg" alt="@jeelpatel101 on twitter" height="40" width="40" /></a>
     <a href="https://linkedin.com/in/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/Wz0.svg" alt="jeelpatel17" height="40" width="40" /></a>
     <a href="https://stackoverflow.com/users/15842907/jeel-patel" target="blank"><img align="center" src="https://svgshare.com/i/X1Q.svg" height="40" width="40" /></a>
