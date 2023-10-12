@@ -2,19 +2,19 @@
   <img align="center" src="https://svgshare.com/i/X0X.svg" alt="jeelpatel" height="100" width="1000" />
   <h2 align="center">A Passionate Frontend Developer from Toronto, Canada!</h2>
 
-  <h2>S'up?</h2>
+  <h2>About Jeel</h2>
 
-  - 🌱 I’m currently learning **React JS**
+  - 🌱 I’m currently learning **Advanced JS**
 
   - 👨‍💻 All of my projects are available at [My Portfolio](http://jeelpatel17.github.io)
 
-  - 💬 Ask me about **React & NeXT JS**
+  - 💬 Ask me about **Visually Appealing Designs**
 
   - 📫 Reach me on **[my Email](mailto:jeelpateldev@gmail.com)**
 
 
   <p>
-    <h2>My Ammunition</h2>
+    <h2>My Toolkit</h2>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@
 
 
   <p>
-    <h2>Would like to connect?</h2>
+    <h2>Let's connect!</h2>
     <a href="https://instagram.com/7eelpatel" target="blank"><img align="center" src="https://svgshare.com/i/X0t.svg" alt="7eelpatel" height="40" width="40" /></a>
     <a href="https://twitter.com/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/X1D.svg" alt="@jeelpatel101 on twitter" height="40" width="40" /></a>
     <a href="https://linkedin.com/in/jeelpatel101" target="blank"><img align="center" src="https://svgshare.com/i/Wz0.svg" alt="jeelpatel17" height="40" width="40" /></a>
