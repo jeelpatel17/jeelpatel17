@@ -12,7 +12,7 @@
 
   - 📫 Reach me on **[my Email](mailto:jeelpateldev@gmail.com)**
 
-  - 🕹 Other than programming, I'm into Fitness, Cars, Self-help books(esp. finance), Rap Music & Nature.
+  - 🕹 Other than programming, I'm into **Fitness, Cars, Self-help books(finance), Rap Music & Nature**.
 
 
   <p>
