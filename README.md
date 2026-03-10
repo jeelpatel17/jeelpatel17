@@ -1,6 +1,6 @@
 <div>
   <img align="center" src="https://svgshare.com/i/X0X.svg" alt="jeelpatel" height="100" width="1000" />
-  <h2 align="center">A Passionate Frontend Developer from Toronto, Canada!</h2>
+  <h2 align="center">Hello, I'm Jeel!</h2>
 
   <h2>About Me!</h2>
 
